@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "goonserveracab.aternos.me",
-    "port": 37162,
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
